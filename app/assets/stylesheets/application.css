@@ -80,3 +80,13 @@ td {
   display: table-cell;
   vertical-align: inherit;
 }
+h2 {
+  margin: 16.185px 0;
+}
+div {
+  display: block;
+  margin-bottom: 10px;
+}
+label {
+  display: block;
+}
