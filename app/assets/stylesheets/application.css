@@ -31,6 +31,7 @@ h1 {
   display: block;
   font-size: 2em;
   font-weight: bold;
+  margin: 17.42px 0;
 }
 p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
@@ -51,6 +52,12 @@ table {
   text-indent: initial;
   border-spacing: 2px;
   border-color: grey;
+}
+th {
+  padding: 1px 1px 5px;
+}
+td {
+  padding: 1px 5px 7px;
 }
 
 h2 {
